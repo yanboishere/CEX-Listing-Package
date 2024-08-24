@@ -11,6 +11,10 @@ The coin listing package information of 5 CEX（Centralized Exchange） I collec
 
 ## WEEX
 
+## 文档版
+
+[Google Docs](https://docs.google.com/document/d/1HymslDgL2WpvUTwIreJGDOKvfH8vOGN7sBzyEvvOcas/edit?usp=sharing)
+
 
 ## Listing Help ｜ 上币支持
 
