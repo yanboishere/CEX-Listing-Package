@@ -20,6 +20,8 @@ The coin listing package information of 5 CEX（Centralized Exchange） I collec
 
 ### More information｜更多信息
 
+[LBank](https://github.com/yanboishere/CEX-Listing-Package/tree/master/LBank)
+
 
 
 ## XT.com
@@ -37,6 +39,7 @@ The coin listing package information of 5 CEX（Centralized Exchange） I collec
 $20,000 + $10,000 worth of tokens or $25,000
 
 ### More information｜更多信息
+[XT.com](https://github.com/yanboishere/CEX-Listing-Package/tree/master/XT.com)
 
 
 ## DigiFinex
@@ -46,6 +49,8 @@ $20,000 + $10,000 worth of tokens or $25,000
 - We support Pre-listing announcement. (50% payment)
 
 ### More information｜更多信息
+
+[DigiFinex](https://github.com/yanboishere/CEX-Listing-Package/tree/master/DigiFinex)
 
 
 
@@ -58,6 +63,7 @@ $20,000 + $10,000 worth of tokens or $25,000
 - 10KU Token
 
 ### More information｜更多信息
+[WEEX](https://github.com/yanboishere/CEX-Listing-Package/tree/master/WEEX)
 
 ## Online Docs｜在线文档
 
