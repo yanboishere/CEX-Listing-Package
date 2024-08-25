@@ -3,6 +3,8 @@ The coin listing package information of 5 CEX（Centralized Exchange） I collec
 
 我收集的5家CEX（中心化交易所）上币包信息｜包括 MEXC 、 LBank 、 XT.com 、 DigiFinex 、 WEEX
 
+---
+
 ## MEXC
 ### Kickstarter
 - $40K USDT and $20K of token (or $60K if the token is not circulating yet)
@@ -18,11 +20,15 @@ The coin listing package information of 5 CEX（Centralized Exchange） I collec
 ### MM capital requirement (deposit in your own mm account)
 - $30K USDT + $30K of token
 
+---
+
 ## LBank
 
 ### More information｜更多信息
 
 [LBank](https://github.com/yanboishere/CEX-Listing-Package/tree/master/LBank)
+
+---
 
 
 
@@ -43,6 +49,8 @@ $20,000 + $10,000 worth of tokens or $25,000
 ### More information｜更多信息
 [XT.com](https://github.com/yanboishere/CEX-Listing-Package/tree/master/XT.com)
 
+---
+
 
 ## DigiFinex
 
@@ -53,6 +61,8 @@ $20,000 + $10,000 worth of tokens or $25,000
 ### More information｜更多信息
 
 [DigiFinex](https://github.com/yanboishere/CEX-Listing-Package/tree/master/DigiFinex)
+
+---
 
 
 
@@ -67,11 +77,17 @@ $20,000 + $10,000 worth of tokens or $25,000
 ### More information｜更多信息
 [WEEX](https://github.com/yanboishere/CEX-Listing-Package/tree/master/WEEX)
 
+---
+
 ## Online Docs｜在线文档
 
 [Google Docs](https://docs.google.com/document/d/1HymslDgL2WpvUTwIreJGDOKvfH8vOGN7sBzyEvvOcas/edit?usp=sharing)
+
+---
 
 
 ## Listing Help ｜ 上币支持
 
 [Yanbo](https://t.me/yanbowang)
+
+Send Message “Listing”｜发送 “Listing” 信息
